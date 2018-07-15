@@ -1,0 +1,23 @@
+{
+  "name": "tsblank",
+  "version": "1.0.0",
+  "description": "Blank TypeScript project",
+  "main": "index.js",
+  "scripts": {
+    "test": "error"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petedarling/tsblank.git"
+  },
+  "keywords": [
+    "blank",
+    "typescript"
+  ],
+  "author": "Pete Darling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petedarling/tsblank/issues"
+  },
+  "homepage": "https://github.com/petedarling/tsblank#readme"
+}
